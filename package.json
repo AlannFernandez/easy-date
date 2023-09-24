@@ -1,0 +1,31 @@
+{
+  "name": "easy-date",
+  "version": "1.0.0",
+  "description": "A simple Node.js date management library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlannFernandez/easy-date"
+  },
+  "author": "Alan Fernandez",
+  "license": "MIT",
+  "keywords": [
+    "date",
+    "time",
+    "calendar",
+    "datetime",
+    "utility",
+    "library"
+  ],
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
